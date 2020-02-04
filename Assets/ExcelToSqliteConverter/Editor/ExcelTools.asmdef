@@ -1,0 +1,17 @@
+{
+    "name": "ExcelTools",
+    "references": [
+        "GUID:d37d0e3039ec792458b48cfd10a045a0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

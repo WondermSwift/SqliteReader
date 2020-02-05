@@ -1,6 +1,6 @@
 {
 	"displayName": "Wonderm SqliteReader",
-	"name": "com.wonderm.sqlite_reader-7",
+	"name": "com.wonderm.sqlite_reader",
 	"version": "1.0.7",
 	"unity": "2018.1",
 	"description": " Sqlite 文件从 Excel 生成，数据类转换。",

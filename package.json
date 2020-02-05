@@ -1,7 +1,7 @@
 {
 	"displayName": "Wonderm SqliteReader",
-	"name": "com.wonderm.sqlite_reader",
-	"version": "1.0.4",
+	"name": "com.wonderm.sqlite_reader-6",
+	"version": "1.0.5",
 	"unity": "2018.1",
 	"description": " Sqlite 文件从 Excel 生成，数据类转换。",
 	"keywords": [
@@ -13,5 +13,13 @@
 		"url": "https://github.com/WondermSwift/SqliteReader"
 	},
 	"author": "WondermSwift<wonderm-swift@hotmail.com> (https://github.com/WondermSwift)",
-	"dependencies": {}
+	"category": "WondermSwift",
+	"dependencies": {
+		"com.wonderm.sqlite_reader-1": "1.0.1",
+		"com.wonderm.sqlite_reader-2": "1.0.2",
+		"com.wonderm.sqlite_reader-3": "1.0.3",
+		"com.wonderm.sqlite_reader-4": "1.0.4",
+		"com.wonderm.sqlite_reader-5": "1.0.5",
+		"com.wonderm.sqlite_reader-6": "1.0.6"
+	}
 }

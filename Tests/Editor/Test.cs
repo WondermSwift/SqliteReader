@@ -6,8 +6,8 @@ using Wonderm.SQLiteNs;
 
 public class Test
 {
-    [MenuItem("Tool/Excel/Test &1")]
-    private static void ShowXlS()
+    //[MenuItem("Tool/Excel/Test &1")]
+    public static void ShowXlS()
     {
         string path = Application.streamingAssetsPath + "/Test/Test3.xlsx";
 
@@ -22,8 +22,8 @@ public class Test
         }
     }
 
-    [MenuItem("Tool/Excel/Test &2")]
-    private static void ReadSqlite()
+    //[MenuItem("Tool/Excel/Test &2")]
+    public static void ReadSqlite()
     {
         var db = new SQLiteHelper(SqlitePath, false);
 
